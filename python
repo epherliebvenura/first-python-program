@@ -1,0 +1,36 @@
+print(10>5)
+print (7<=7)
+
+
+#list
+fruits=["apple","banana","pineapple"]
+numbers=[1,2,3,4,5,6,7,8,9,10]
+mixed_list =[True,1.6,"mhg"]
+
+
+print(fruits)
+print(numbers)
+print(mixed_list)
+
+#index
+print(fruits[0])
+print(fruits[-1])
+
+#slicing a list
+
+numbers= [10,20,30,40,50]
+fruits=["apple","banana","cherry"]
+fruits.append("orange")
+print (fruits)
+
+fruits.insert(1,"mango")
+print (fruits)
+
+
+fruits=["apple","banana","pineapple"]
+#fruits.remove("banana")
+#print (fruits)
+
+fruits=["apple","banana","pineapple"]
+fruits.clear(fruits)
+print(fruits)      
