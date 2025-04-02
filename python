@@ -33,4 +33,8 @@ fruits=["apple","banana","pineapple"]
 
 fruits=["apple","banana","pineapple"]
 fruits.clear(fruits)
-print(fruits)      
+print(fruits)
+
+
+
+print("Hello World!")
